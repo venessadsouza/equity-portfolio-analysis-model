@@ -1,6 +1,6 @@
 # Equity Portfolio Analysis Model
 
-Excel-based financial model for tracking portfolio performance, allocation, and daily P&L.
+Dynamic Excel-based portfolio model for tracking portfolio performance, allocation, and daily P&L.
 
 ---
 
